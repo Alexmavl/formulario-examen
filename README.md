@@ -13,7 +13,7 @@ Este proyecto es un formulario web responsivo construido con **React**, **Vite**
 
 1. **Clona el repositorio:**
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone https://github.com/Alexmavl/formulario-examen.git
    cd formulario-examen
    ```
 
